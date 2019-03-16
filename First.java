@@ -6,9 +6,6 @@ Public class HelloWorld
     public static void main(String args[]) 
     { 
         System.out.println("Hello, World"); 
-      	System.out.println("SEcond Commit");
-System.out.println("Third Commit");
-//Prints Hello world in terminal
+system.out.println("SEcond Commit");
     } 
-
 } 
